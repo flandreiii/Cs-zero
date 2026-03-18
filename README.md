@@ -50,8 +50,6 @@ pkg update && pkg install python
 
 ### 3. Download the game
 ```bash
-# Option A — download directly
-curl -O https://your-link-here/cs_realistic.html
 
 # Option B — if you already have the file in /sdcard/Download
 cd /sdcard/Download
